@@ -1,6 +1,5 @@
 # Name: M.REVANTHI
-# Regd_No:
-# Sec:
+
 
 
 from PySide6.QtCore import *
